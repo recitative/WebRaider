@@ -1,5 +1,8 @@
 # WebRaider
 
+> [!WARNING]
+> The author is not responsible for your actions. The program was developed only for professionals. The program itself is only educational in nature.
+
 WebRaider is a program for load testing websites.
 
 1. Informational
