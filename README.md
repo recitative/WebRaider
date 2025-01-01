@@ -1,6 +1,6 @@
 # WebRaider
 
-⚠️ [!WARNING]: The author is not responsible for your actions. This program is intended for educational purposes only and should be used by professionals.
+[!WARNING]: The author is not responsible for your actions. This program is intended for educational purposes only and should be used by professionals.
 
 WebRaider is a powerful tool for load testing websites. It allows users to simulate multiple requests to a target site to evaluate its performance under stress and understand how it behaves under heavy traffic conditions.
 
