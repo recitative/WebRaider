@@ -1,3 +1,6 @@
+
+## HTTP Status Codes
+
 ### 1. Informational
 - **100 Continue**: The client should continue with the request.
 - **101 Switching Protocols**: The server accepts the client's request to change protocols.
