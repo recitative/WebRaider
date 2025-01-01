@@ -2,7 +2,16 @@
 
 ![GitHub stars](https://img.shields.io/github/stars/recitative/WebRaider?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/recitative/WebRaider?style=social)
+![GitHub issues](https://img.shields.io/github/issues/recitative/WebRaider)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/recitative/WebRaider)
 
+## О проекте
+Краткое описание вашего проекта.
+
+## Метрики
+- **Количество коммитов**: [Здесь можно указать количество коммитов]
+- **Количество открытых вопросов**: [Здесь можно указать количество открытых вопросов]
+- **Количество пул-реквестов**: [Здесь можно указать количество пул-реквестов]
 > [!WARNING]
 > The author is not responsible for your actions. The program was developed only for professionals. The program itself is intended for educational purposes only.  
 
