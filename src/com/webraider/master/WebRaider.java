@@ -5,6 +5,10 @@ import com.webraider.master.util.ThreadManager;
 
 import java.util.concurrent.atomic.AtomicInteger;
 
+/*
+@author sma1lo
+*/
+
 public class WebRaider {
     private static String targetUrl;
     private static int numberOfThreads;
