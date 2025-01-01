@@ -1,9 +1,9 @@
 # WebRaider
 
-![GitHub stars](https://img.shields.io/github/stars/recitative/WebRaider)
-![GitHub forks](https://img.shields.io/github/forks/recitative/WebRaider)
-![GitHub issues](https://img.shields.io/github/issues/recitative/WebRaider)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/recitative/WebRaider)
+![GitHub stars](https://img.shields.io/github/stars/recitative/WebRaider?style=flat-square&color=brightgreen)
+![GitHub forks](https://img.shields.io/github/forks/recitative/WebRaider?style=flat-square&color=brightgreen)
+![GitHub issues](https://img.shields.io/github/issues/recitative/WebRaider?style=flat-square&color=brightgreen)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/recitative/WebRaider?style=flat-square&color=brightgreen)
 
 > [!WARNING]
 > The author is not responsible for your actions. The program was developed only for professionals. The program itself is intended for educational purposes only.  
