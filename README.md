@@ -7,6 +7,8 @@
 
 This project is licensed under the [LICENSE](https://github.com/recitative/WebRaider/blob/main/LICENSE).
 
+## About project
+
 WebRaider is a powerful tool for load testing websites. It allows users to simulate multiple requests to a target site to evaluate its performance under stress and understand how it behaves under heavy traffic conditions.
 
 ## Features
