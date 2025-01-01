@@ -1,7 +1,7 @@
 # WebRaider
 
-![GitHub stars](https://img.shields.io/github/stars/USERNAME/REPOSITORY?style=social)
-![GitHub forks](https://img.shields.io/github/forks/USERNAME/REPOSITORY?style=social)
+![GitHub stars](https://img.shields.io/github/stars/recitative/WebRaider?style=social)
+![GitHub forks](https://img.shields.io/github/forks/recitative/WebRaider?style=social)
 ![Downloads](https://img.shields.io/npm/dt/PACKAGE_NAME)
 
 > [!WARNING]
