@@ -8,6 +8,10 @@ import java.util.concurrent.Executors;
 import java.util.concurrent.TimeUnit;
 import java.util.concurrent.atomic.AtomicInteger;
 
+/*
+@author sma1lo
+*/
+
 public class ThreadManager {
     public static final String RESET = "\u001B[0m";
 
