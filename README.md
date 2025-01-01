@@ -1,7 +1,8 @@
 # WebRaider
 
 > [!WARNING]
-> The author is not responsible for your actions. This program is intended for educational purposes only and should be used by professionals.
+> The author is not responsible for your actions. The program was developed only for professionals. The program itself is intended for educational purposes only.  
+
 
 WebRaider is a powerful tool for load testing websites. It allows users to simulate multiple requests to a target site to evaluate its performance under stress and understand how it behaves under heavy traffic conditions.
 
@@ -9,45 +10,49 @@ WebRaider is a powerful tool for load testing websites. It allows users to simul
 
 - Simulate multiple concurrent users to test website performance.
 - Monitor response times and server behavior under load.
-- Support for various HTTP methods (GET, POST, PUT, DELETE, etc.).
-- Detailed reporting of HTTP status codes, response times, and error rates.
-
-## Installation
-
-1. Clone the repository:
-
-```bash
-   git clone https://github.com/recitative/WebRaider.git
-```
-
-
-2. Install dependencies:
-
-bash
-   cd WebRaider
-   pip install -r requirements.txt
-
-
-## Usage
-
-Run the following command to start a load test:
-
-bash
-python webraider.py --url http://example.com --users 100 --duration 60
-
+- Support for various HTTP methods (GET, POST, etc.).
+- Detailed reporting of HTTP status codes and response times.
 
 ## HTTP Status Codes
 
-For a detailed list of HTTP status codes, see [HTTP_STATUS_CODES.md](HTTP_STATUS_CODES.md).
+### 1. Informational
+- **100 Continue**: The client should continue with the request.
+- **101 Switching Protocols**: The server accepts the client's request to change protocols.
+
+### 2. Success
+- **200 OK**: The request was successful, and the server is returning the requested resource.
+- **201 Created**: The request was successful, and the resource was created (usually in response to a POST).
+- **202 Accepted**: The request was accepted but has not yet been processed.
+- **204 No Content**: The request was successful, but there is no content to return.
+
+### 3. Redirect
+- **300 Multiple Choices**: Multiple choices for the resource; the client must choose one.
+- **301 Moved Permanently**: The requested resource has been moved to a new URL (permanently).
+- **302 Found**: The requested resource is temporarily available at another URL.
+- **303 See Other**: The client should contact another URL to get the response.
+- **304 Not Modified**: The resource has not changed since the last request (used for caching).
+
+### 4. Client Errors
+- **400 Bad Request**: The server cannot process the request due to invalid syntax.
+- **401 Unauthorized**: Authentication is required to access the resource.
+- **403 Forbidden**: The server understands the request but refuses to fulfill it (no access rights).
+- **404 Not Found**: The requested resource was not found on the server.
+- **405 Method Not Allowed**: The method specified in the request is not supported for this resource.
+- **408 Request Timeout**: The request timed out.
+
+### 5. Server Errors
+- **500 Internal Server Error**: General server error; something went wrong.
+- **501 Not Implemented**: The server does not support the functionality required to fulfill the request.
+- **502 Bad Gateway**: The server acting as a gateway or proxy received an invalid response from the upstream server.
+- **503 Service Unavailable**: The server is temporarily unavailable, usually due to overload or maintenance.
+- **504 Gateway Timeout**: The server acting as a gateway or proxy did not receive a timely response from the upstream server.
+
+## Installation
+
+You can install the code via command: ``git clone``.
+
+``git clone https://github.com/recitative/WebRaider/tree/main``
 
 ## Authors
 
 - [Sma1lo_](https://github.com/Sma1lo) - Main Developer
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contributing
-
-We welcome contributions! Please see our [CONTRIBUTING.md](CONTRIBUTING.md) for more details.
