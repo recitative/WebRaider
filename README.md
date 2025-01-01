@@ -45,7 +45,3 @@ WebRaider is a powerful tool for load testing websites. It allows users to simul
 - **502 Bad Gateway**: The server acting as a gateway or proxy received an invalid response from the upstream server.
 - **503 Service Unavailable**: The server is temporarily unavailable, usually due to overload or maintenance.
 - **504 Gateway Timeout**: The server acting as a gateway or proxy did not receive a timely response from the upstream server.
-
-## Installation
-
-To install WebRaider, clone this repository and install the required dependencies:
