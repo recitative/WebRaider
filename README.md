@@ -1,7 +1,7 @@
 # WebRaider
 
-![GitHub stars](https://img.shields.io/github/stars/recitative/WebRaider?style=social)
-![GitHub forks](https://img.shields.io/github/forks/recitative/WebRaider?style=social)
+![GitHub stars](https://img.shields.io/github/stars/recitative/WebRaider)
+![GitHub forks](https://img.shields.io/github/forks/recitative/WebRaider)
 ![GitHub issues](https://img.shields.io/github/issues/recitative/WebRaider)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/recitative/WebRaider)
 
