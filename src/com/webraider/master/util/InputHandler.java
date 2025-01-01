@@ -2,6 +2,10 @@ package com.webraider.master.util;
 
 import java.util.Scanner;
 
+/*
+@author sma1lo
+*/
+
 public class InputHandler {
 
     private static String targetUrl;
