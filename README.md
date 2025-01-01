@@ -48,4 +48,4 @@ WebRaider is a powerful tool for load testing websites. It allows users to simul
 
 ## Authors
 
-- [Sma1lo](https://github.com/yourusername) - Main Developer
+- [Sma1lo_](https://github.com/Sma1lo) - Main Developer
