@@ -46,6 +46,12 @@ WebRaider is a powerful tool for load testing websites. It allows users to simul
 - **503 Service Unavailable**: The server is temporarily unavailable, usually due to overload or maintenance.
 - **504 Gateway Timeout**: The server acting as a gateway or proxy did not receive a timely response from the upstream server.
 
+## Installation
+
+You can install the code via command: `git clone`
+
+`git clone https://github.com/recitative/WebRaider/tree/main`
+
 ## Authors
 
 - [Sma1lo_](https://github.com/Sma1lo) - Main Developer
