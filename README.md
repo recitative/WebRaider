@@ -17,7 +17,8 @@ WebRaider is a powerful tool for load testing websites. It allows users to simul
 1. Clone the repository:
 
 ```bash
-   git clone https://github.com/recitative/WebRaider.git```
+   git clone https://github.com/recitative/WebRaider.git
+```
 
 
 2. Install dependencies:
