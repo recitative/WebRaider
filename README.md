@@ -2,7 +2,6 @@
 
 ![GitHub stars](https://img.shields.io/github/stars/recitative/WebRaider?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/recitative/WebRaider?style=social)
-![Downloads](https://img.shields.io/npm/dt/WebRaider)
 
 > [!WARNING]
 > The author is not responsible for your actions. The program was developed only for professionals. The program itself is intended for educational purposes only.  
