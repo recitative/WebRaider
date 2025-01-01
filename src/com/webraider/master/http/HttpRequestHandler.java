@@ -7,6 +7,10 @@ import java.net.URL;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
+/*
+@author sma1lo
+*/
+
 public class HttpRequestHandler {
 
     public static final String RESET = "\u001B[0m";
