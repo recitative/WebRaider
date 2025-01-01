@@ -8,7 +8,7 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 
 /*
-@author sma1lo
+@author Sma1lo
 */
 
 public class HttpRequestHandler {
