@@ -6,7 +6,7 @@ import com.webraider.master.util.ThreadManager;
 import java.util.concurrent.atomic.AtomicInteger;
 
 /*
-@author sma1lo
+@author Sma1lo
 */
 
 public class WebRaider {
