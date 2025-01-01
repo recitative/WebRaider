@@ -3,7 +3,7 @@ package com.webraider.master.util;
 import java.util.Scanner;
 
 /*
-@author sma1lo
+@author Sma1lo
 */
 
 public class InputHandler {
