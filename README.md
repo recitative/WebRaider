@@ -15,9 +15,7 @@ WebRaider is a powerful tool for load testing websites. It allows users to simul
 
 ## HTTP Status Codes
 
- HTTP status code are needed to understand how the program works, they have been moved to a separate file.
-
-[HTTP Status code](https://github.com/recitative/WebRaider/blob/main/HTTP_STATUS_CODES.md)
+ [HTTP Status code](https://github.com/recitative/WebRaider/blob/main/HTTP_STATUS_CODES.md) are needed to understand how the program works, they have been moved to a separate file.
 
 ## Installation
 
