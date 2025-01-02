@@ -36,7 +36,7 @@ git clone https://github.com/recitative/WebRaider
 ```
 
 ```bash
-cd WebRaider/src/main/java  
+cd WebRaider/src/main/java
 ```
 
 ```bash
