@@ -5,7 +5,7 @@
 ![GitHub issues](https://img.shields.io/github/issues/recitative/WebRaider?style=flat-square&color=brightgreen)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/recitative/WebRaider?style=flat-square&color=brightgreen)
 ![Downloads](https://img.shields.io/badge/dynamic/json?color=brightgreen&label=Downloads&query=$.downloads&url=https://api.example.com/downloads)
-![Views](https://img.shields.io/badge/dynamic/json?color=blue&label=Views&query=$.views&url=https://api.example.com/views)
+![Views](https://img.shields.io/badge/dynamic/json?color=blue&label=Views&query=$.views&url=/views)
 ![License](https://img.shields.io/badge/license-MIT-brightgreen)
 ![Contributors](https://img.shields.io/github/contributors/recitative/WebRaider?style=flat-square&color=brightgreen)
 
