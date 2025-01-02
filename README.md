@@ -28,10 +28,24 @@ WebRaider is a powerful tool for load testing websites. It allows users to simul
 
 ## Installation
 
+### Linux:
+
 You can install the code via command: ``git clone``.
 
 ```bash
 git clone https://github.com/recitative/WebRaider
+```
+
+```bash
+cd WebRaider/src/main/java  
+```
+
+```bash
+javac com/webraider/master/WebRaider.java
+```
+
+```bash
+java com.webraider.master.WebRaider
 ```
 
 ## Authors
