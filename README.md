@@ -4,7 +4,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/recitative/WebRaider?style=flat-square&color=brightgreen)
 ![GitHub issues](https://img.shields.io/github/issues/recitative/WebRaider?style=flat-square&color=brightgreen)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/recitative/WebRaider?style=flat-square&color=brightgreen)
-  <a href="LICENSE"><img src="https://img.shields.io/badge/license-LICENSE%20with%20anime%20exception-green.svg" alt="License"/></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/license-LICENSE%brightgreen.svg" alt="License"/></a>
 ![Contributors](https://img.shields.io/github/contributors/recitative/WebRaider?style=flat-square&color=brightgreen)
 
 > [!WARNING]
