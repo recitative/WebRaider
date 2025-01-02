@@ -50,6 +50,8 @@ java com.webraider.master.WebRaider
 
 ### Windows 
 
+Download [git](https://git-scm.com/downloads)
+
 ```bash
 cd C:
 ```
