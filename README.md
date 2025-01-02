@@ -28,7 +28,7 @@ WebRaider is a powerful tool for load testing websites. It allows users to simul
 
 ## Installation
 
-### Linux:
+### Linux
 
 You can install the code via command: ``git clone``.
 
