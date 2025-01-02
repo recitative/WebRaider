@@ -1,11 +1,13 @@
 # WebRaider
 
-<p align="center">
-
- ![GitHub stars](https://img.shields.io/github/stars/recitative/WebRaider?style=flat-square&color=brightgreen) ![GitHub forks](https://img.shields.io/github/forks/recitative/WebRaider?style=flat-square&color=brightgreen) ![GitHub issues](https://img.shields.io/github/issues/recitative/WebRaider?style=flat-square&color=brightgreen) ![GitHub pull requests](https://img.shields.io/github/issues-pr/recitative/WebRaider?style=flat-square&color=brightgreen) ![GitHub license](https://img.shields.io/github/license/recitative/WebRaider?style=flat-square&color=brightgreen) ![GitHub downloads](https://img.shields.io/github/downloads/recitative/WebRaider/total?style=flat-square&color=brightgreen) ![GitHub contributors](https://img.shields.io/github/contributors/recitative/WebRaider?style=flat-square&color=brightgreen)
-
-</p>
-
+![GitHub stars](https://img.shields.io/github/stars/recitative/WebRaider?style=flat-square&color=brightgreen)
+![GitHub forks](https://img.shields.io/github/forks/recitative/WebRaider?style=flat-square&color=brightgreen)
+![GitHub issues](https://img.shields.io/github/issues/recitative/WebRaider?style=flat-square&color=brightgreen)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/recitative/WebRaider?style=flat-square&color=brightgreen)
+![Downloads](https://img.shields.io/badge/dynamic/json?color=brightgreen&label=Downloads&query=$.downloads&url=https://api.example.com/downloads)
+![Views](https://img.shields.io/badge/dynamic/json?color=blue&label=Views&query=$.views&url=https://api.example.com/views)
+![License](https://img.shields.io/badge/license-MIT-brightgreen)
+![Contributors](https://img.shields.io/github/contributors/recitative/WebRaider?style=flat-square&color=brightgreen)
 
 > [!WARNING]
 > The author is not responsible for your actions. The program was developed only for professionals. The program itself is intended for educational purposes only.  
