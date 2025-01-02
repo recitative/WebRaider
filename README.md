@@ -48,6 +48,33 @@ javac com/webraider/master/WebRaider.java
 java com.webraider.master.WebRaider
 ```
 
+### Windows 
+
+```bash
+cd C:
+```
+
+```bash
+mkdir WebRaider
+```
+
+```bash
+cd WebRaider
+```
+
+```bash
+git clone https://github.com/recitative/WebRaider
+```
+
+```bash
+javac com\webraider\master\WebRaider.java
+```
+
+```bash
+java com.webraider.master.WebRaider
+```
+
+
 ## Authors
 
 - [Sma1lo_](https://github.com/Sma1lo) - Main Developer
