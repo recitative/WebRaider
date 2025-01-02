@@ -76,6 +76,7 @@ javac com\webraider\master\WebRaider.java
 java com.webraider.master.WebRaider
 ```
 
+You can also download the program and run it on your IntelijIdea (if you have one).
 
 ## Authors
 
