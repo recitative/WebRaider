@@ -8,11 +8,11 @@
 
 ## License
 
-This project is licensed under the [LICENSE](https://github.com/recitative/WebRaider/blob/main/LICENSE).
+ This project is licensed under the [LICENSE](https://github.com/recitative/WebRaider/blob/main/LICENSE).
 
 ## About project
 
-WebRaider is a powerful tool for load testing websites. It allows users to simulate multiple requests to a target site to evaluate its performance under stress and understand how it behaves under heavy traffic conditions.
+ WebRaider is a powerful tool for load testing websites. It allows users to simulate multiple requests to a target site to evaluate its performance under stress and understand how it behaves under heavy traffic conditions.
 
 ## Features
 
@@ -29,7 +29,7 @@ WebRaider is a powerful tool for load testing websites. It allows users to simul
 
 ### Linux
 
-You can install the code via command: ``git clone``.
+ You can install the code via command: ``git clone``.
 
 ```bash
 git clone https://github.com/recitative/WebRaider
@@ -48,7 +48,7 @@ java com.webraider.master.WebRaider
 ```
 
 ### Windows 
-You can install the code via command: ``git clone``. To do this, download [git](https://git-scm.com/downloads)
+ You can install the code via command: ``git clone``. To do this, download [git](https://git-scm.com/downloads)
 
 ```bash
 cd C:
