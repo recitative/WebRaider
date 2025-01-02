@@ -4,9 +4,8 @@
 ![GitHub forks](https://img.shields.io/github/forks/recitative/WebRaider?style=flat-square&color=brightgreen)
 ![GitHub issues](https://img.shields.io/github/issues/recitative/WebRaider?style=flat-square&color=brightgreen)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/recitative/WebRaider?style=flat-square&color=brightgreen)
-![Downloads](https://img.shields.io/badge/dynamic/json?color=brightgreen&label=Downloads&query=$.downloads&url=https://api.example.com/downloads)
 ![License](https://img.shields.io/badge/license-MIT-brightgreen)
-![Contributors](https://img.shields.io/github/contributors/recitative/WebRaider?color=brightgreen)
+![Contributors](https://img.shields.io/github/contributors/recitative/WebRaider?style=flat-square&color=brightgreen)
 
 > [!WARNING]
 > The author is not responsible for your actions. The program was developed only for professionals. The program itself is intended for educational purposes only.  
