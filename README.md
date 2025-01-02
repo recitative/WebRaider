@@ -6,7 +6,7 @@
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/recitative/WebRaider?style=flat-square&color=brightgreen)
 
 </a
-href="https://img.shields.io/badge/license-LICENSE"?style=flat-square&color=brightgreen">
+href="https://img.shields.io/badge/license-LICENSE?style=flat-square&color=brightgreen">
 </a>
 
 ![Contributors](https://img.shields.io/github/contributors/recitative/WebRaider?style=flat-square&color=brightgreen)
