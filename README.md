@@ -1,6 +1,7 @@
 # WebRaider
 
  ![GitHub stars](https://img.shields.io/github/stars/recitative/WebRaider?style=flat-square&color=brightgreen) ![GitHub forks](https://img.shields.io/github/forks/recitative/WebRaider?style=flat-square&color=brightgreen) ![GitHub issues](https://img.shields.io/github/issues/recitative/WebRaider?style=flat-square&color=brightgreen) ![GitHub pull requests](https://img.shields.io/github/issues-pr/recitative/WebRaider?style=flat-square&color=brightgreen)
+ ![GitHub license](https://img.shields.io/github/license/recitative/WebRaider?style=flat-square&color=brightgreen)
 
 
 
@@ -49,8 +50,7 @@ java com.webraider.master.WebRaider
 ```
 
 ### Windows 
-
-Download [git](https://git-scm.com/downloads)
+You can install the code via command: ``git clone``. To do this, download [git](https://git-scm.com/downloads)
 
 ```bash
 cd C:
