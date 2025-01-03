@@ -1,6 +1,6 @@
 # WebRaider
 
-<img src="recitative/WebRaider/WebRaider_logo.png>
+<img src="recitative/WebRaider/WebRaider_logo.png">
 
 ![GitHub stars](https://img.shields.io/github/stars/recitative/WebRaider?style=flat-square&color=brightgreen)
 ![GitHub forks](https://img.shields.io/github/forks/recitative/WebRaider?style=flat-square&color=brightgreen)
