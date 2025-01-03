@@ -30,18 +30,11 @@ public class InputHandler {
     private static void displayMenu(Scanner scanner) {
         int consoleWidth = 80;
 
-        String[] messages = {
-                "",
-        };
         System.out.println(ASCIIArtGallery.WEB_RAIDER);
-        System.out.println(centerMessage("1. Start WebRaider", consoleWidth));
-        System.out.println(centerMessage("2. Authors", consoleWidth));
-        System.out.println(centerMessage("0. Exit", consoleWidth));
-
-        for (String message : messages) {
-            System.out.println(centerMessage(message, consoleWidth));
-        }
-        System.out.print(centerMessage("Enter number:", consoleWidth));
+        System.out.println("1. Start WebRaider");
+        System.out.println("2. Authors");
+        System.out.println("0. Exit");
+        System.out.print("\nEnter number:");
                 int choice = scanner.nextInt();
                 scanner.nextLine();
 
@@ -64,19 +57,6 @@ public class InputHandler {
                 default:
                     System.out.println(ConsoleColors.RED + "[ERROR]" + ConsoleColors.RESET + " Invalid choice.");
             }
-    }
-    public static String centerMessage(String message, int width) {
-        int messageLength = message.length();
-        int padding = (width - messageLength) / 2;
-        StringBuilder centeredMessage = new StringBuilder();
-
-        for (int i = 0; i < padding; i++) {
-            centeredMessage.append(" ");
-        }
-
-        centeredMessage.append(message);
-
-        return centeredMessage.toString();
     }
 
     private static void getInputFromUser(Scanner scanner) {
