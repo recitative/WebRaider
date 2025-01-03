@@ -1,7 +1,5 @@
 # WebRaider
 
-<img src="https://github.com/recitative/WebRaider/blob/main/WebRaider_logo.png">
-
 ![GitHub stars](https://img.shields.io/github/stars/recitative/WebRaider?style=flat-square&color=brightgreen)
 ![GitHub forks](https://img.shields.io/github/forks/recitative/WebRaider?style=flat-square&color=brightgreen)
 ![GitHub issues](https://img.shields.io/github/issues/recitative/WebRaider?style=flat-square&color=brightgreen)
@@ -18,6 +16,7 @@
 
 ## About project
 
+<img src="https://github.com/recitative/WebRaider/blob/main/WebRaider_logo.png">
  WebRaider is a powerful tool for load testing websites. It allows users to simulate multiple requests to a target site to evaluate its performance under stress and understand how it behaves under heavy traffic conditions.
 
 ## Features
