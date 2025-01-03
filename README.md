@@ -19,7 +19,7 @@
 WebRaider is a powerful tool for load testing websites. It allows users to simulate multiple requests to a target site to evaluate its performance under stress and understand how it behaves under heavy traffic conditions.
 
 
-<img src="https://github.com/recitative/WebRaider/blob/main/WEB_RAIDER_LOGO.png">
+<img src="https://github.com/recitative/WebRaider/blob/main/WEB_RAIDER_LOGO_NOT_BG.png">
 
 ## Features
 
