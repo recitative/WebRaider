@@ -12,7 +12,7 @@
 
 ## License
 
- This project is licensed under the [LICENSE](https://github.com/recitative/WebRaider/blob/main/LICENSE).
+ This project is licensed under the [MIT LICENSE](https://github.com/recitative/WebRaider/blob/main/LICENSE).
 
 ## About project
 
