@@ -34,7 +34,7 @@ public class InputHandler {
         System.out.println("1. Start WebRaider");
         System.out.println("2. Authors");
         System.out.println("0. Exit");
-        System.out.print("\nEnter number:");
+        System.out.print("\nEnter number: ");
                 int choice = scanner.nextInt();
                 scanner.nextLine();
 
