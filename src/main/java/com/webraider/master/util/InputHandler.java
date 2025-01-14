@@ -30,8 +30,7 @@ public class InputHandler {
     private static void displayMenu(Scanner scanner) {
 
         System.out.println(ASCIIArt.WEBRAIDER);
-        System.out.println("\t\t" + ConsoleColor.RED + "v 1.0" + ConsoleColor.RESET + ", Author: Sma1lo");
-        System.out.println("\tGithub: https://github.com/recitative/WebRaider");
+        System.out.println("\t\t" + ConsoleColor.RED + "v 1.0" + ConsoleColor.RESET + ", Author: Sma1lo\n");
         System.out.println("\n[" + ConsoleColor.RED + "1" + ConsoleColor.RESET +"] Start WebRaider");
         System.out.println("[" + ConsoleColor.RED + "0" + ConsoleColor.RESET +"] Exit");
         System.out.print("\nEnter number: ");
