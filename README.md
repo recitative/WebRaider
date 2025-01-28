@@ -31,8 +31,6 @@
 
 ### Linux
 
- You can install the code via command: ``git clone``.
-
 ```bash
 git clone https://github.com/recitative/WebRaider
 ```
@@ -48,35 +46,6 @@ javac com/webraider/master/WebRaider.java
 ```bash
 java com.webraider.master.WebRaider
 ```
-
-### Windows 
- You can install the code via command: ``git clone``. To do this, download [git](https://git-scm.com/downloads)
-
-```bash
-cd C:
-```
-
-```bash
-mkdir WebRaider
-```
-
-```bash
-cd WebRaider
-```
-
-```bash
-git clone https://github.com/recitative/WebRaider
-```
-
-```bash
-javac com\webraider\master\WebRaider.java
-```
-
-```bash
-java com.webraider.master.WebRaider
-```
-
-You can also download the program and run it on your IntelijIdea (if you have one).
 
 ## Authors
 
